@@ -32,7 +32,7 @@ Example of tokens:
 3. Remove comments.
    
 ## How to Run this Project:
-1. Clone the project using command:  `git clone https://github.com/Akshit6828/Lexical-Analyzer.git `
+1. Clone the project using command:  `https://github.com/Yatin-04/Lexical-Analyzer.git`
 2. Change directory to Lexical-Analyzer using command: `cd Lexical-Analyzer`.
 3. Make a text file in this folder and write source code in C++.
    3.1 Try the source code written written [here](#sample-source-code)
